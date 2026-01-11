@@ -1,10 +1,10 @@
 import secrets
 
 CANTIDADES = {
-    'hacker': 315,
+    'hacker': 415,
     'mentor': 15,
-    'organizacion': 10,
-    'patrocinador': 60
+    'organizacion': 35,
+    'patrocinador': 35
 }
 
 salida = []
